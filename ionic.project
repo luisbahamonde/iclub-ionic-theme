@@ -1,0 +1,12 @@
+{
+  "name": "znapp",
+  "app_id": "177a6b93",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
